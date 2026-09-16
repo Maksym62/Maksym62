@@ -1,4 +1,9 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Maksym! 👋</h1>
+<h3 align="center">Frontend Developer | Programming Instructor</h3>
+
+<p align="center">
+  I am a passionate web developer focusing on creating interactive, responsive, and user-friendly interfaces. When I'm not coding, I'm teaching kids the magic of Python.
+</p>
 
 <!--
 **Maksym62/Maksym62** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
